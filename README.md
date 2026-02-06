@@ -1,126 +1,98 @@
-<h1 align="center">👋 Hi, I'm Phước Anh</h1>
-<h3 align="center">💻 Full-Stack & Mobile Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://web.facebook.com/tphuocem">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/>
-  </a>
-  <a href="mailto:phuocanh554@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:2a003f,50:7b2cbf,100:ff4d9d&text=TRẦN%20PHƯỚC%20ANH&fontSize=60&fontColor=ffb3da&animation=fadeIn&fontAlignY=38&desc=APP%20DEVELOPER%20•%20FLUTTER%20SPECIALIST%20•%20UX%20FOCUSED&descAlignY=60&descSize=20"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=FF4D9D&center=true&vCenter=true&width=700&lines=Xây+dựng+ứng+dụng+có+linh+hồn;Mượt+từ+animation+đến+architecture;UX+không+chỉ+đẹp+mà+phải+sướng;Build+apps+users+love+✦"/>
 
-## 🚀 About Me
-- 💡 Passionate about **Web, Mobile & Software Development**
-- 📱 Focus on **Flutter, React Native, Angular**
-- 🧠 Interested in **Clean Architecture & System Design**
-- 🔥 Build **real projects**, not tutorial demos
+<br/>
+
+<img src="https://img.shields.io/badge/Location-Da%20Nang%2C%20Vietnam-ff4d9d?style=for-the-badge&labelColor=14001f"/>
+<img src="https://img.shields.io/badge/Focus-Mobile%20Apps%20%26%20Product%20UX-ff4d9d?style=for-the-badge&labelColor=14001f"/>
+<img src="https://img.shields.io/badge/Open%20To-Freelance%20%26%20Product%20Collab-ff4d9d?style=for-the-badge&labelColor=14001f"/>
+
+</div>
 
 ---
 
-## 🌱 Currently Learning / Working On
-- 📚 **Flutter + Clean Architecture** (GetX / Riverpod)
-- ⚙️ **Backend APIs** with Node.js & SQL-based systems
-- 🧩 **System Design fundamentals**
-- 🧪 **Testing & Automation** (Postman, Selenium)
-- ☁️ **Docker & basic CI/CD**
+# 👋 GIỚI THIỆU
+
+Mình là **App Developer** chuyên xây dựng ứng dụng mobile với trọng tâm là **Flutter** và kiến trúc sạch.  
+Mục tiêu của mình không chỉ là làm app chạy được — mà là tạo ra **trải nghiệm mượt, có cảm xúc và đáng nhớ** cho người dùng.
+
+🔹 Tư duy **UX-first**  
+🔹 Tối ưu **performance & animation**  
+🔹 Thiết kế **clean, scalable architecture**  
+🔹 Xây dựng sản phẩm có thể phát triển lâu dài
 
 ---
 
-## 🌟 Featured Projects (Pinned)
+# SẢN PHẨM TIÊU BIỂU
 
-### 🎵 Calliope
-> Mobile application focused on content experience & UI/UX flow
+<table width="100%">
+<tr>
 
-- 🔹 Flutter
-- 🔹 Clean Architecture
-- 🔹 State management with GetX / Riverpod
-- 🔹 Modular & scalable structure
-- 🔹 Built as **serious portfolio project**
+<td align="center" width="33%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:3a0ca3,100:ff4d9d&text=Calliope&fontColor=ffffff&fontSize=34"/>
+<br/>
+<b>Music Player cảm xúc</b><br/>
+<sub>Flutter · Riverpod · Offline-first · Hi-res Audio</sub><br/><br/>
+<a href="https://github.com/phuocem/calliope">
+<img src="https://img.shields.io/badge/VIEW-ff4d9d?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</td>
 
-👉 Repo: https://github.com/phuocem/calliope
+<td align="center" width="33%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:3a0ca3,100:ff4d9d&text=Mindory&fontColor=ffffff&fontSize=34"/>
+<br/>
+<b>Nhật ký cảm xúc AI</b><br/>
+<sub>Flutter · DDD · Insight Engine · UX-first</sub><br/><br/>
+<a href="https://github.com/phuocem/mindory">
+<img src="https://img.shields.io/badge/VIEW-ff4d9d?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</td>
 
----
+<td align="center" width="33%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:3a0ca3,100:ff4d9d&text=HealthCareCenter&fontColor=ffffff&fontSize=28"/>
+<br/>
+<b>🏥 Hệ thống y tế số</b><br/>
+<sub>Flutter · NodeJS · PostgreSQL · Realtime</sub><br/><br/>
+<a href="https://github.com/phuocem/HealthCareCenter">
+<img src="https://img.shields.io/badge/VIEW-ff4d9d?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</td>
 
-### 🧠 Mindory
-> Mental health & self-care oriented mobile application
-
-- 🔹 Flutter / Mobile-first design
-- 🔹 Focus on UX, user flow & emotion-driven features
-- 🔹 Structured architecture (domain / data / presentation)
-- 🔹 Real-world use case, not demo app
-
-👉 Repo: https://github.com/phuocem/mindory
-
----
-
-### 🏥 HealthCareCenter
-> Full-featured application demonstrating end-to-end development
-
-- 🔹 Mobile + Backend integration
-- 🔹 Authentication & data handling
-- 🔹 Clean code & maintainable structure
-- 🔹 Showcases **full development workflow**
-
-👉 Repo: https://github.com/phuocem/HealthCareCenter
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 📱 Frontend & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### 🗄️ Backend & Database
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phuocem&theme=radical"/>
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=phuocem&theme=radical"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuocem&theme=radical&layout=compact"/>
-</p>
+# TECH STACK
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,nodejs,nestjs,go,java,postgres,mongodb,firebase,supabase,docker,git,githubactions,linux,vscode"/>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phuocem&theme=radical&no-bg=true&margin-w=10"/>
-</p>
+# GITHUB STATS
+
+<div align="center">
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=phuocem&theme=radical&hide_border=true&area=true"/>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+# LIÊN HỆ
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=phuocem&color=6"/>
-</p>
+<div align="center">
+<a href="https://github.com/phuocem"><img src="https://img.shields.io/badge/GitHub-ff4d9d?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a href="mailto:phuocanh554@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff4d9d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://facebook.com/tphuocem"><img src="https://img.shields.io/badge/Facebook-ff4d9d?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2a003f,50:7b2cbf,100:ff4d9d&section=footer&text=BUILD%20APPS%20PEOPLE%20LOVE%20✦&fontColor=ffffff&fontSize=28"/>
+</div>
