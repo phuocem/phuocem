@@ -34,7 +34,7 @@ Mục tiêu của mình không chỉ là làm app chạy được — mà là t�
 <td align="center" width="33%">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:3a0ca3,100:ff4d9d&text=Calliope&fontColor=ffffff&fontSize=34"/>
 <br/>
-<b>Music Player cảm xúc</b><br/>
+<b>app vẽ </b><br/>
 <sub>Flutter · Riverpod · Offline-first · Hi-res Audio</sub><br/><br/>
 <a href="https://github.com/phuocem/calliope">
 <img src="https://img.shields.io/badge/VIEW-ff4d9d?style=for-the-badge&logo=github&logoColor=black"/>
@@ -44,7 +44,7 @@ Mục tiêu của mình không chỉ là làm app chạy được — mà là t�
 <td align="center" width="33%">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:3a0ca3,100:ff4d9d&text=Mindory&fontColor=ffffff&fontSize=34"/>
 <br/>
-<b>Nhật ký cảm xúc AI</b><br/>
+<b>học thông qua flash-card</b><br/>
 <sub>Flutter · DDD · Insight Engine · UX-first</sub><br/><br/>
 <a href="https://github.com/phuocem/mindory">
 <img src="https://img.shields.io/badge/VIEW-ff4d9d?style=for-the-badge&logo=github&logoColor=black"/>
