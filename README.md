@@ -1,5 +1,6 @@
-<!-- === RADIAL HERO === -->
-<div align="center" style="padding: 38px 14px 18px; background: radial-gradient(circle at 20% 20%, rgba(255,214,102,0.25), transparent 38%), radial-gradient(circle at 80% 15%, rgba(255,122,122,0.22), transparent 36%), linear-gradient(135deg, #0f172a, #0b1020 55%); border-radius: 18px; box-shadow: 0 20px 60px rgba(0,0,0,0.4);">
+<!-- === RADIAL HERO WITH SAKURA === -->
+<div align="center" style="position: relative; padding: 38px 14px 18px; background: radial-gradient(circle at 20% 20%, rgba(255,214,102,0.25), transparent 38%), radial-gradient(circle at 80% 15%, rgba(255,122,122,0.22), transparent 36%), linear-gradient(135deg, #0f172a, #0b1020 55%); border-radius: 18px; box-shadow: 0 20px 60px rgba(0,0,0,0.4); overflow: hidden;">
+  <img src="https://media.giphy.com/media/26FPnsRwwxI9Y38V6/giphy.gif" alt="sakura falling" style="position: absolute; inset: -30px -10px auto -10px; width: 120%; opacity: 0.4; pointer-events: none; mix-blend-mode: screen;"/>
   <div style="font-size: 0.9em; letter-spacing: 0.26em; color: #ffc857; text-transform: uppercase; margin-bottom: 8px;">Product + Code</div>
   <div style="font-size: 48px; font-weight: 800; color: #f8fafc; letter-spacing: -0.02em;">Trần Phước Anh</div>
   <div style="color:#cbd5e1; max-width: 760px; margin: 10px auto 0; font-size: 1.02em; line-height: 1.65;">
@@ -87,6 +88,9 @@
 
 <!-- === STATS === -->
 <h2 align="center" style="color: #f8fafc;">GitHub activity</h2>
+<div align="center" style="margin: 10px 0 14px;">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" style="max-width: 900px;"/>
+</div>
 <div align="center" style="margin: 12px 0 38px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phuocem&theme=tokyo-night&hide_border=true&area=true&point=f59e0b&line=22d3ee"/>
 </div>
