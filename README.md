@@ -1,8 +1,6 @@
 <!-- === RADIAL HERO WITH SAKURA === -->
 <div align="center" style="position: relative; padding: 38px 14px 18px; background: radial-gradient(circle at 20% 20%, rgba(255,214,102,0.25), transparent 38%), radial-gradient(circle at 80% 15%, rgba(255,122,122,0.22), transparent 36%), linear-gradient(135deg, #0f172a, #0b1020 55%); border-radius: 18px; box-shadow: 0 20px 60px rgba(0,0,0,0.4); overflow: hidden;">
-  <img src="https://media.giphy.com/media/26FPnsRwwxI9Y38V6/giphy.gif" alt="sakura falling" style="position: absolute; inset: -30px -12px auto -12px; width: 125%; opacity: 0.35; pointer-events: none; mix-blend-mode: screen;"/>
-  <img src="https://media.giphy.com/media/26FPnsRwwxI9Y38V6/giphy.gif" alt="sakura falling" style="position: absolute; inset: -26px -12px auto auto; width: 125%; opacity: 0.28; pointer-events: none; mix-blend-mode: screen; transform: scaleX(-1);"/>
-  <img src="https://media.giphy.com/media/26FPnsRwwxI9Y38V6/giphy.gif" alt="sakura falling" style="position: absolute; inset: auto -16px -40px -16px; width: 130%; opacity: 0.22; pointer-events: none; mix-blend-mode: screen;"/>
+
   <div style="font-size: 0.9em; letter-spacing: 0.26em; color: #ffc857; text-transform: uppercase; margin-bottom: 8px;">Product + Code</div>
   <div style="font-size: 48px; font-weight: 800; color: #f8fafc; letter-spacing: -0.02em;">Trần Phước Anh</div>
   <div style="color:#cbd5e1; max-width: 760px; margin: 10px auto 0; font-size: 1.02em; line-height: 1.65;">
