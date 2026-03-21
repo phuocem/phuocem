@@ -86,6 +86,9 @@
 </div>
 
 <!-- === ACTIVITY === -->
+<div align="center" style="margin-bottom: 24px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuocem&theme=dark&background=000000&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=64748b&dates=64748b" style="border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; padding: 10px; background: #000000;"/>
+</div>
 <div align="center" style="margin-bottom: 60px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phuocem&theme=github-dark-orange&hide_border=true&area=true&color=ffffff&point=ffffff" style="border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; padding: 10px; background: #000000;"/>
 </div>
