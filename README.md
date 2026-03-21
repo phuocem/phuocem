@@ -1,14 +1,13 @@
 <!-- === OBSIDIAN SAKURA HERO === -->
-<div align="center" style="padding: 70px 20px 50px; background: #000000; border-radius: 28px; border: 1px solid rgba(251, 207, 232, 0.15); overflow: hidden; position: relative; box-shadow: 0 40px 100px rgba(0,0,0,0.8);">
-  <div style="font-size: 0.85em; letter-spacing: 0.5em; color: #FBCFE8; text-transform: uppercase; margin-bottom: 24px; font-weight: 600; opacity: 0.8;">Product & Engineering</div>
-  <div style="font-size: 68px; font-weight: 900; color: #ffffff; letter-spacing: -0.05em; margin-bottom: 4px;">Trần Phước Anh</div>
-  <div style="color: #94a3b8; max-width: 640px; margin: 20px auto 0; font-size: 1.1em; line-height: 1.8; font-weight: 300;">
-    Thiết kế giải pháp phần mềm chuyên biệt. Chú trọng vào <span style="color: #FBCFE8; font-weight: 500;">Realtime Systems</span>, <span style="color: #FBCFE8; font-weight: 500;">Performance Optimization</span> và trải nghiệm người dùng tối giản.
+<div align="center" style="padding: 80px 20px 60px; background: radial-gradient(circle at 50% -20%, rgba(251, 207, 232, 0.12), transparent 70%), #000000; border-radius: 32px; border: 1px solid rgba(251, 207, 232, 0.18); overflow: hidden; position: relative; box-shadow: 0 40px 120px rgba(0,0,0,0.9);">
+  <div style="font-size: 0.8em; letter-spacing: 0.6em; color: #FBCFE8; text-transform: uppercase; margin-bottom: 28px; font-weight: 700; opacity: 0.9;">Product & Engineering</div>
+  <div style="font-size: 72px; font-weight: 900; color: #ffffff; letter-spacing: -0.06em; margin-bottom: 6px; filter: drop-shadow(0 0 25px rgba(251, 207, 232, 0.25));">Trần Phước Anh</div>
+  <div style="color: #94a3b8; max-width: 680px; margin: 24px auto 0; font-size: 1.15em; line-height: 1.9; font-weight: 300; letter-spacing: 0.01em;">
+    Thiết kế giải pháp phần mềm chuyên biệt. Chú trọng vào <span style="color: #FBCFE8; font-weight: 600;">Realtime Systems</span>, <span style="color: #FBCFE8; font-weight: 600;">Performance Optimization</span> và trải nghiệm người dùng tối giản.
   </div>
-  <div style="margin-top: 40px; display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
-    <div style="background: rgba(251, 207, 232, 0.05); border: 1px solid rgba(251, 207, 232, 0.2); padding: 10px 20px; border-radius: 12px; color: #FBCFE8; font-size: 0.9em; font-weight: 500;">📍 Saigon, VN</div>
-    <div style="background: rgba(251, 207, 232, 0.05); border: 1px solid rgba(251, 207, 232, 0.2); padding: 10px 20px; border-radius: 12px; color: #FBCFE8; font-size: 0.9em; font-weight: 500;">💻 Fullstack Arch</div>
-    <div style="background: rgba(251, 207, 232, 0.05); border: 1px solid rgba(251, 207, 232, 0.2); padding: 10px 20px; border-radius: 12px; color: #FBCFE8; font-size: 0.9em; font-weight: 500;">✨ Freelance</div>
+  <div style="margin-top: 48px; display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
+    <div style="background: rgba(251, 207, 232, 0.06); border: 1px solid rgba(251, 207, 232, 0.25); padding: 12px 24px; border-radius: 100px; color: #FBCFE8; font-size: 0.95em; font-weight: 600; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">📍 Saigon, VN</div>
+    <div style="background: rgba(251, 207, 232, 0.06); border: 1px solid rgba(251, 207, 232, 0.25); padding: 12px 24px; border-radius: 100px; color: #FBCFE8; font-size: 0.95em; font-weight: 600; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">💻 Fullstack Arch</div>
   </div>
 </div>
 
@@ -26,56 +25,22 @@
 </div>
 
 <!-- === CORE FOCUS === -->
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 1000px; margin: 0 auto 60px;">
-  <div style="padding: 32px; background: rgba(251, 207, 232, 0.02); border: 1px solid rgba(251, 207, 232, 0.1); border-radius: 24px; text-align: left;">
-    <div style="color: #FBCFE8; font-weight: 800; font-size: 1.4em; margin-bottom: 12px;">Build</div>
-    <div style="color: #94a3b8; line-height: 1.7; font-size: 1em; font-weight: 300;">Kiến tạo MVP với tốc độ cao, quy trình tinh gọn và khả năng mở rộng ngay từ vạch xuất phát.</div>
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; max-width: 1000px; margin: 0 auto 64px;">
+  <div style="padding: 38px 32px; background: linear-gradient(135deg, rgba(251, 207, 232, 0.04), transparent); border: 1px solid rgba(251, 207, 232, 0.12); border-radius: 28px; text-align: left; box-shadow: inset 0 0 20px rgba(251, 207, 232, 0.03);">
+    <div style="color: #FBCFE8; font-weight: 800; font-size: 1.5em; margin-bottom: 14px; letter-spacing: -0.02em;">Build</div>
+    <div style="color: #94a3b8; line-height: 1.75; font-size: 1.05em; font-weight: 300;">Kiến tạo MVP với tốc độ cao, quy trình tinh gọn và khả năng mở rộng ngay từ vạch xuất phát.</div>
   </div>
-  <div style="padding: 32px; background: rgba(251, 207, 232, 0.02); border: 1px solid rgba(251, 207, 232, 0.1); border-radius: 24px; text-align: left;">
-    <div style="color: #FBCFE8; font-weight: 800; font-size: 1.4em; margin-bottom: 12px;">Design</div>
-    <div style="color: #94a3b8; line-height: 1.7; font-size: 1em; font-weight: 300;">Thiết kế giao diện tối giản, chú trọng vào chuyển động và sự mượt mà trong từng tương tác.</div>
+  <div style="padding: 38px 32px; background: linear-gradient(135deg, rgba(251, 207, 232, 0.04), transparent); border: 1px solid rgba(251, 207, 232, 0.12); border-radius: 28px; text-align: left; box-shadow: inset 0 0 20px rgba(251, 207, 232, 0.03);">
+    <div style="color: #FBCFE8; font-weight: 800; font-size: 1.5em; margin-bottom: 14px; letter-spacing: -0.02em;">Design</div>
+    <div style="color: #94a3b8; line-height: 1.75; font-size: 1.05em; font-weight: 300;">Thiết kế giao diện tối giản, chú trọng vào chuyển động và sự mượt mà trong từng tương tác.</div>
   </div>
-  <div style="padding: 32px; background: rgba(251, 207, 232, 0.02); border: 1px solid rgba(251, 207, 232, 0.1); border-radius: 24px; text-align: left;">
-    <div style="color: #FBCFE8; font-weight: 800; font-size: 1.4em; margin-bottom: 12px;">Scale</div>
-    <div style="color: #94a3b8; line-height: 1.7; font-size: 1em; font-weight: 300;">Tối ưu hóa kiến trúc hệ thống, đảm bảo tính nhất quán dữ liệu và hiệu năng ở quy mô lớn.</div>
+  <div style="padding: 38px 32px; background: linear-gradient(135deg, rgba(251, 207, 232, 0.04), transparent); border: 1px solid rgba(251, 207, 232, 0.12); border-radius: 28px; text-align: left; box-shadow: inset 0 0 20px rgba(251, 207, 232, 0.03);">
+    <div style="color: #FBCFE8; font-weight: 800; font-size: 1.5em; margin-bottom: 14px; letter-spacing: -0.02em;">Scale</div>
+    <div style="color: #94a3b8; line-height: 1.75; font-size: 1.05em; font-weight: 300;">Tối ưu hóa kiến trúc hệ thống, đảm bảo tính nhất quán dữ liệu và hiệu năng ở quy mô lớn.</div>
   </div>
 </div>
 
-<!-- === PROJECTS === -->
-<h2 align="center" style="color: #ffffff; font-size: 2em; letter-spacing: -0.02em; margin-bottom: 32px;">Projects</h2>
-<div align="center" style="max-width: 1000px; margin: 0 auto 60px; display: grid; gap: 24px;">
-  
-  <div style="display: flex; align-items: center; gap: 32px; padding: 32px; background: #000000; border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 24px;">
-    <div style="min-width: 180px;">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=000000&text=Calliope&fontColor=FBCFE8&fontSize=32" width="100%" style="border-radius: 12px; border: 1px solid rgba(251, 207, 232, 0.2);"/>
-    </div>
-    <div style="flex: 1; text-align: left;">
-      <div style="color: #ffffff; font-weight: 700; font-size: 1.3em; margin-bottom: 8px;">Calliope App</div>
-      <div style="color: #64748b; font-size: 1em; margin-bottom: 16px; line-height: 1.6;">Ứng dụng vẽ tối ưu cho cảm ứng, hỗ trợ đa vật liệu và xuất video quy trình.</div>
-      <div style="display: flex; gap: 10px;">
-        <span style="color: #FBCFE8; font-family: monospace; font-size: 0.9em; border: 1px solid rgba(251, 207, 232, 0.2); padding: 4px 10px; border-radius: 6px;">Flutter</span>
-        <span style="color: #FBCFE8; font-family: monospace; font-size: 0.9em; border: 1px solid rgba(251, 207, 232, 0.2); padding: 4px 10px; border-radius: 6px;">Firebase</span>
-      </div>
-    </div>
-    <a href="https://github.com/phuocem/calliope" style="text-decoration: none; color: #FBCFE8; font-weight: 600; border: 1px solid #FBCFE8; padding: 10px 20px; border-radius: 10px; font-size: 0.9em;">View Code</a>
-  </div>
 
-  <div style="display: flex; align-items: center; gap: 32px; padding: 32px; background: #000000; border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 24px;">
-    <div style="min-width: 180px;">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=000000&text=Mindory&fontColor=FBCFE8&fontSize=32" width="100%" style="border-radius: 12px; border: 1px solid rgba(251, 207, 232, 0.2);"/>
-    </div>
-    <div style="flex: 1; text-align: left;">
-      <div style="color: #ffffff; font-weight: 700; font-size: 1.3em; margin-bottom: 8px;">Mindory Flashcard</div>
-      <div style="color: #64748b; font-size: 1em; margin-bottom: 16px; line-height: 1.6;">Ứng dụng học tập thông minh sử dụng thuật toán Spaced Repetition.</div>
-      <div style="display: flex; gap: 10px;">
-        <span style="color: #FBCFE8; font-family: monospace; font-size: 0.9em; border: 1px solid rgba(251, 207, 232, 0.2); padding: 4px 10px; border-radius: 6px;">Angular</span>
-        <span style="color: #FBCFE8; font-family: monospace; font-size: 0.9em; border: 1px solid rgba(251, 207, 232, 0.2); padding: 4px 10px; border-radius: 6px;">Supabase</span>
-      </div>
-    </div>
-    <a href="https://github.com/phuocem/mindory" style="text-decoration: none; color: #FBCFE8; font-weight: 600; border: 1px solid #FBCFE8; padding: 10px 20px; border-radius: 10px; font-size: 0.9em;">View Code</a>
-  </div>
-
-</div>
 
 <!-- === TECH STACK === -->
 <h2 align="center" style="color: #ffffff; font-size: 1.8em; margin-bottom: 32px;">Tech Stack</h2>
@@ -86,14 +51,16 @@
 </div>
 
 <!-- === ACTIVITY & STATS === -->
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 24px; max-width: 1000px; margin-left: auto; margin-right: auto;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuocem&theme=dark&background=000000&hide_border=true&stroke=FBCFE8&ring=FBCFE8&fire=FBCFE8&currStreakNum=FBCFE8&sideNums=FBCFE8&sideLabels=64748b&dates=64748b" style="border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 20px; padding: 10px; background: #000000; flex: 1; min-width: 300px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuocem&layout=compact&theme=dark&hide_border=true&title_color=FBCFE8&text_color=94a3b8&bg_color=000000&langs_count=8" style="border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 20px; padding: 10px; background: #000000; flex: 1; min-width: 300px;"/>
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 24px; max-width: 1100px; margin: 0 auto 32px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=phuocem&show_icons=true&theme=dark&hide_border=true&title_color=FBCFE8&icon_color=FBCFE8&text_color=94a3b8&bg_color=000000" style="border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 20px; padding: 15px; background: #000000; width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/profile-details?username=phuocem&theme=dark&hide_border=true&title_color=FBCFE8&icon_color=FBCFE8&text_color=94a3b8&bg_color=000000" style="border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 20px; padding: 15px; background: #000000; width: 100%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuocem&theme=dark&background=000000&hide_border=true&stroke=FBCFE8&ring=FBCFE8&fire=FBCFE8&currStreakNum=FBCFE8&sideNums=FBCFE8&sideLabels=64748b&dates=64748b" style="border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 20px; padding: 15px; background: #000000; width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuocem&layout=compact&theme=dark&hide_border=true&title_color=FBCFE8&text_color=94a3b8&bg_color=000000&langs_count=8" style="border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 20px; padding: 15px; background: #000000; width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=phuocem&theme=dark&hide_border=true&title_color=FBCFE8&text_color=94a3b8&bg_color=000000&layout=compact" style="border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 20px; padding: 15px; background: #000000; width: 100%;"/>
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 24px; max-width: 1000px; margin-left: auto; margin-right: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=phuocem&theme=dark&hide_border=true&title_color=FBCFE8&text_color=94a3b8&bg_color=000000&layout=compact" style="border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 20px; padding: 10px; background: #000000; flex: 1; min-width: 300px;"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phuocem&theme=github-dark-orange&hide_border=true&area=true&color=FBCFE8&point=FBCFE8" style="border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 20px; padding: 10px; background: #000000; flex: 2; min-width: 400px;"/>
+<div align="center" style="margin-bottom: 64px; max-width: 1100px; margin-left: auto; margin-right: auto;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phuocem&bg_color=000000&color=FBCFE8&line=FBCFE8&point=ffffff&area=true&hide_border=true&font_color=ffffff" style="border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 24px; padding: 20px; background: #000000; width: 100%; box-shadow: 0 10px 40px rgba(0,0,0,0.5);"/>
 </div>
 
 <!-- === FOOTER === -->
