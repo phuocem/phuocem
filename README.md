@@ -51,16 +51,16 @@
 </div>
 
 <!-- === ACTIVITY & STATS === -->
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 24px; max-width: 1100px; margin: 0 auto 32px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=phuocem&show_icons=true&theme=dark&hide_border=true&title_color=FBCFE8&icon_color=FBCFE8&text_color=94a3b8&bg_color=000000" style="border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 20px; padding: 15px; background: #000000; width: 100%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/profile-details?username=phuocem&theme=dark&hide_border=true&title_color=FBCFE8&icon_color=FBCFE8&text_color=94a3b8&bg_color=000000" style="border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 20px; padding: 15px; background: #000000; width: 100%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuocem&theme=dark&background=000000&hide_border=true&stroke=FBCFE8&ring=FBCFE8&fire=FBCFE8&currStreakNum=FBCFE8&sideNums=FBCFE8&sideLabels=64748b&dates=64748b" style="border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 20px; padding: 15px; background: #000000; width: 100%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuocem&layout=compact&theme=dark&hide_border=true&title_color=FBCFE8&text_color=94a3b8&bg_color=000000&langs_count=8" style="border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 20px; padding: 15px; background: #000000; width: 100%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=phuocem&theme=dark&hide_border=true&title_color=FBCFE8&text_color=94a3b8&bg_color=000000&layout=compact" style="border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 20px; padding: 15px; background: #000000; width: 100%;"/>
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; max-width: 900px; margin: 0 auto 24px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=phuocem&show_icons=true&theme=dark&hide_border=true&title_color=FBCFE8&icon_color=FBCFE8&text_color=94a3b8&bg_color=000000" style="border: 1px solid rgba(251, 207, 232, 0.12); border-radius: 16px; padding: 12px; background: #000000; height: 180px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/profile-details?username=phuocem&theme=dark&hide_border=true&title_color=FBCFE8&icon_color=FBCFE8&text_color=94a3b8&bg_color=000000" style="border: 1px solid rgba(251, 207, 232, 0.12); border-radius: 16px; padding: 12px; background: #000000; height: 180px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuocem&theme=dark&background=000000&hide_border=true&stroke=FBCFE8&ring=FBCFE8&fire=FBCFE8&currStreakNum=FBCFE8&sideNums=FBCFE8&sideLabels=64748b&dates=64748b" style="border: 1px solid rgba(251, 207, 232, 0.12); border-radius: 16px; padding: 12px; background: #000000; height: 180px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuocem&layout=compact&theme=dark&hide_border=true&title_color=FBCFE8&text_color=94a3b8&bg_color=000000&langs_count=8" style="border: 1px solid rgba(251, 207, 232, 0.12); border-radius: 16px; padding: 12px; background: #000000; height: 180px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=phuocem&theme=dark&hide_border=true&title_color=FBCFE8&text_color=94a3b8&bg_color=000000&layout=compact" style="border: 1px solid rgba(251, 207, 232, 0.12); border-radius: 16px; padding: 12px; background: #000000; height: 180px;"/>
 </div>
 
-<div align="center" style="margin-bottom: 64px; max-width: 1100px; margin-left: auto; margin-right: auto;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phuocem&bg_color=000000&color=FBCFE8&line=FBCFE8&point=ffffff&area=true&hide_border=true&font_color=ffffff" style="border: 1px solid rgba(251, 207, 232, 0.15); border-radius: 24px; padding: 20px; background: #000000; width: 100%; box-shadow: 0 10px 40px rgba(0,0,0,0.5);"/>
+<div align="center" style="margin-bottom: 64px; max-width: 850px; margin-left: auto; margin-right: auto;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phuocem&bg_color=000000&color=FBCFE8&line=FBCFE8&point=ffffff&area=true&hide_border=true&font_color=ffffff" style="border: 1px solid rgba(251, 207, 232, 0.12); border-radius: 20px; padding: 16px; background: #000000; width: 100%; box-shadow: 0 10px 40px rgba(0,0,0,0.5);"/>
 </div>
 
 <!-- === FOOTER === -->
